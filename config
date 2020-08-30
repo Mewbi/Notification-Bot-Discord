@@ -1,0 +1,10 @@
+# Webhook URL
+webhook=""
+
+# Bot name
+# Set empty to default
+bot_name=""
+
+# Bot image
+# Set empty to default
+bot_image=""

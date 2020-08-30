@@ -1,0 +1,5 @@
+# Structure:
+# Notification Title|Time|Week Days|<@Accounts IDs (Discord)>|Body Message|Image URL(Optional)
+#
+# Example:
+# Good Morning|09:00|seg ter qua qui sex|<@350812203865345678> <@350812203865329384>|Hey good morning everyone!!!|https://images.freeimages.com/images/large-previews/9c3/sunshine-1408040.jpg
