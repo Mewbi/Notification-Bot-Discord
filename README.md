@@ -25,6 +25,7 @@ Um exemplo seria:
 Bom dia|09:00|seg ter qua qui sex|<@350812203865345678> <@350812203865329384>|Bom dia pessoal!|https://images.freeimages.com/images/large-previews/9c3/sunshine-1408040.jpg
 ```
 Importante:
+- Não deixe a linha comentada (começar com #)
 - Apenas 1 horário por notificação.
 - Usar sempre o formato de horário HH:MM
 - Você pode marcar mais de um usuário e lembre-se de usar o seguinte formato <@ID>
